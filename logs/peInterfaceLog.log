@@ -1,0 +1,6 @@
+2017-08-17 14:23:09,884 TRACE c.e.l.Log4jTest [main] trace level
+2017-08-17 14:23:09,900 DEBUG c.e.l.Log4jTest [main] debug level
+2017-08-17 14:23:09,900 INFO c.e.l.Log4jTest [main] info level
+2017-08-17 14:23:09,900 WARN c.e.l.Log4jTest [main] warn level
+2017-08-17 14:23:09,900 ERROR c.e.l.Log4jTest [main] error level
+2017-08-17 14:23:09,900 FATAL c.e.l.Log4jTest [main] fatal level
